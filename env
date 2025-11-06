@@ -1,0 +1,30 @@
+# =====================================================
+# Supabase Configuration
+# =====================================================
+EXPO_PUBLIC_SUPABASE_URL=https://djahnunbkbrfetktossw.supabase.co
+EXPO_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRqYWhudW5ia2JyZmV0a3Rvc3N3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjE5MDUwMDYsImV4cCI6MjA3NzQ4MTAwNn0.7HrcPZ2z9xQPrRs-gDtQ8tQX4zT1_5rsHN-CGy0ePzg
+
+# =====================================================
+# PayPal Configuration
+# =====================================================
+# TODO: 从 https://developer.paypal.com/dashboard/applications 获取
+EXPO_PUBLIC_PAYPAL_CLIENT_ID=your-paypal-client-id
+PAYPAL_CLIENT_SECRET=your-paypal-client-secret
+PAYPAL_MODE=sandbox
+
+# PayPal 订阅计划 ID (在 PayPal Dashboard 中创建)
+PAYPAL_PLAN_ID_BASIC_MONTHLY=
+PAYPAL_PLAN_ID_BASIC_YEARLY=
+PAYPAL_PLAN_ID_PREMIUM_MONTHLY=
+PAYPAL_PLAN_ID_PREMIUM_YEARLY=
+
+# =====================================================
+# App Configuration
+# =====================================================
+EXPO_PUBLIC_APP_URL=http://localhost:8081
+EXPO_PUBLIC_TOOLKIT_URL=https://toolkit.rork.com
+
+# =====================================================
+# Admin Configuration
+# =====================================================
+EXPO_PUBLIC_ADMIN_PASSWORD=680142

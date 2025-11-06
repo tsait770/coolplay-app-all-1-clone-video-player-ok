@@ -1,0 +1,21 @@
+name: universal_player_example
+description: Example app for universal_player
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+  flutter: ">=3.22.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  universal_player:
+    path: ..
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
